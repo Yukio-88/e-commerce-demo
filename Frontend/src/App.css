@@ -1,0 +1,39 @@
+
+.flex {
+    display: flex;
+    flex-direction: column;
+  }
+
+#footer{
+    padding-bottom: 0px;
+    width: 100%;
+     
+    bottom:0
+}
+
+#pagina{
+    display: block;
+    position: absolute; 
+    padding-top: 90px;
+    width: 100%;
+    background-color: #d9e3f0;
+   
+}
+
+#navbar{
+    
+   
+    width: 100%;
+    display:block; padding-top:50px;
+}
+
+#carosello{
+    position: relative;
+    left: 500px;
+    
+}
+#logoAdmin{
+
+    height: 55px;
+ 
+}
